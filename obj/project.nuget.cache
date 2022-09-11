@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Z6UiYz1785bTqGv/yMRh7Qc13+LlPzvzw362sAsHy+yu4mfi46QHl8wKVNb2+RpQHGcDTemUKxtQGnTolAcog==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\imoh_\\Desktop\\intoauthapp\\intoauthapp.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.Identity.Client. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Identity.Client",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
